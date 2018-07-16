@@ -1,0 +1,38 @@
+body {
+    font-family:sans-serif, cursive, fantasy;
+    color:black;
+    font-size: 15px;
+    background-image: url(back.jpg);
+    background-size: cover;
+    width: 50%;
+    margin: auto;
+}
+
+img {
+    width: 70%;
+    border: 5px dotted blue;
+    border-radius: 20%;
+    display: block;
+    margin: auto;
+}
+
+
+h1 {
+    border-bottom: 10px solid red;
+    text-align: center;
+    background-color: #ffedf6;
+    
+}
+
+.paragraf1 {
+    text-align: center;
+}
+
+
+.kirmizi {
+    color: red;
+}
+
+#ab {
+    text-align: center;
+}
